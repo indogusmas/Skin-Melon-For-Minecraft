@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Skin Melon for Minecraft</string>
+    <string name="app_name_dir">SkinMeloForMinecraft</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_url">https://drive.google.com/</string>
+    <string name="export">download</string>
+    <string name="craft_id">1_YXEtviIBnscGQI8OgefshEFn7BMPc9P</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_persistent">Persistent Bottom Sheet</string>
+    <string name="btn_modal">Modal Bottom Sheet</string>
+    <string name="tv_title">Learn Bottom Sheet</string>
+    <string name="tv_description">
+        A BottomSheet is a component that is used to display some information by sliding
+        the view up in the screen and also you can hide this BottomSheet when the message
+        is conveyed to the users. This is a nice way of conveying some message or performing
+        some task in Android. Types of BottomSheet \n\nA BottomSheet is of two types: \n\nPersistent BottomSheet \n\nModal BottomSheet</string>
+    <string name="btn_one">Button 1</string>
+    <string name="btn_two">Button 2</string>
+    <string name="btn_three">Button 3</string>
+    <string name="detail_skin">Detail Skin</string>
+    <string name="download">Download</string>
+
+    <string name="applovin_sdk">0vUsScTAraVCtu6CgZOBKPIqyWVahrpOWovT-Qamc83AfdT05oKsN2PXh3yNp5mXzvazTs_5euUAk6kerUc2ov</string>
+    <string name="applovin_inter">test</string>
+    <string name="applovin_native">test</string>
+    <string name="applovin_reward">f49700be08d4c6bd</string>
+    <string name="add_test">ea5ea4b0-cd43-4b17-9cac-10ca1ad1abe1</string>
+    <string name="key_play_store">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqb9V7VACj0B/M/1W2VmkVhT7Rj9VdFVHQyqc5qAAq5RpwwyS4UYpTcdG83dd2prdXxDsPa8x4Cj+Vn6JeKeZkoS19YsLl1Q6OzN9OrcAx4G5PZJi3wIDH1BJj7GUkRgqif0haI16x4BilN8uv/P7VbyWttP28MO5Lg42X6DxsxDcRVcbh0e43CsDHR8Z4rni8tGFmVh/0O3SHx4/CCOdZe9veSwkJG1GVTXnlggh2lXoHMKSGAcGqduH1fHBAFf8PD8JPVAEQEqgDF+igZ9lgJz5WDNEwQJzgoOpy28PH0tfd+H97D93Nkbzzv2D+3xeoNYVsT0G/QM+q0DQWzW11wIDAQAB</string>
+</resources>
